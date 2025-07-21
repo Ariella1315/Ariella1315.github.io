@@ -13,9 +13,7 @@ main{
 	text-align:center;
 	width:300;
 	height:700;
-	display: grid;
 	
-	grid-template-rows:80px 80px;	
 }
 .box{	
 	
