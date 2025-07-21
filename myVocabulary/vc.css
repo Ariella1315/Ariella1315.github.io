@@ -2,17 +2,17 @@
 body{
 	background: linear-gradient(to bottom, #ECFFFF, #005757);
 	text-align:center;
-	height:2000pt;
+	
 }
 header{
 	text-align:center;
-	height:300pt;
+	
 	font-size:30pt;
 }
 main{
 	text-align:center;
 	width:300;
-	
+	height:700;
 	display: inline-grid;
 	
 	grid-template-rows:80px 80px;	
