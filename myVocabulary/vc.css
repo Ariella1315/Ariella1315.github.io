@@ -3,33 +3,3 @@ body{
 	background: linear-gradient(to bottom, #ECFFFF, #005757);
 	text-align:center;
 }
-header{
-	text-align:center;
-	height:300;
-	font-size:30pt;
-}
-
-main{
-	text-align:center;
-	width:300;
-	
-	display: inline-grid;
-	
-	grid-template-rows:80px 80px;	
-}
-.box{	
-	
-	width:300;
-	height:77;
-	font-size:50pt;
-	color:#C6D7DB;
-	border-radius: 3px;
-	background-color:#3B818C;
-}
-.key{
-	background-color:#C6E6E8;
-	color:#41888A;
-	border:#C6E6E8;
-	border-radius:3px;
-	font-size:40pt;
-}
