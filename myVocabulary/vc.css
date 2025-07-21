@@ -2,10 +2,11 @@
 body{
 	background: linear-gradient(to bottom, #ECFFFF, #005757);
 	text-align:center;
+	height:2000pt;
 }
 header{
 	text-align:center;
-	height:300;
+	height:300pt;
 	font-size:30pt;
 }
 main{
