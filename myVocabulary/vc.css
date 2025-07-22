@@ -1,6 +1,6 @@
 
 body{
-	background: linear-gradient(to top, #ECFFFF, #005757);
+	background: linear-gradient(to botton, #ECFFFF, #005757);
 	
 	
 }
@@ -10,7 +10,7 @@ header{
 	font-size:30pt;
 }
 .box{	
-	
+	text-align:center;
 	margin:auto;
 	
 	width:30%;
@@ -21,6 +21,7 @@ header{
 	background-color:#3B818C;
 }
 .key{
+	margin:auto;
 	background-color:#C6E6E8;
 	color:#41888A;
 	border:#C6E6E8;
