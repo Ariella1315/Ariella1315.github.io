@@ -17,8 +17,8 @@ main{
 }
 .box{	
 	text-align:center;
-	margin-left:auto;
-	margin-right:auto;
+	margin:auto;
+	
 	width:300;
 	height:77;
 	font-size:50pt;
