@@ -13,7 +13,7 @@ header{
 	text-align:center;
 	margin:auto;
 	
-	width:30%;
+	
 	
 	font-size:50pt;
 	color:#C6D7DB;
@@ -21,6 +21,7 @@ header{
 	background-color:#3B818C;
 }
 .key{
+	text-align:center;
 	margin:auto;
 	background-color:#C6E6E8;
 	color:#41888A;
